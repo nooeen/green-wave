@@ -80,7 +80,8 @@
       "<rootDir>/libs/"
     ],
     "moduleNameMapper": {
-      "^@lib/share(|/.*)$": "<rootDir>/libs/share/src/$1"
+      "^@lib/share(|/.*)$": "<rootDir>/libs/share/src/$1",
+      "^@lib/accounts(|/.*)$": "<rootDir>/libs/accounts/src/$1"
     }
   }
 }

@@ -23,6 +23,12 @@
       ],
       "@lib/share/*": [
         "libs/share/src/*"
+      ],
+      "@lib/accounts": [
+        "libs/accounts/src"
+      ],
+      "@lib/accounts/*": [
+        "libs/accounts/src/*"
       ]
     }
   }
