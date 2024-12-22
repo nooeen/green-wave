@@ -1,6 +1,7 @@
 export const STATES = {
   PENDING: "pending",
   CREATING: "creating",
+  CONFIRMING: "confirming",
   CREATED: "created",
   PROCESSING: "processing",
   PROCESSED: "processed",
